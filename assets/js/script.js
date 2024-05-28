@@ -7,7 +7,7 @@ var decrementEl = document.querySelector('#decrement');
 var countEl = document.querySelector('#count');
 
 // TODO: Add a comment describing the functionality of the following code:
-// It is 
+// It is increasing the count.
 function setCounterText() {
   countEl.textContent = count;
 }
